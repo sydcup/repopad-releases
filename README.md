@@ -2,7 +2,7 @@
 
 <img src="icon.png" alt="RepoPad" width="128" height="128" />
 
-# RepoPad Releases
+# repopad-releases
 
 **A menu bar app for quickly managing your Git repositories on macOS.**
 
